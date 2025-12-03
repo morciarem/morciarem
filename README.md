@@ -45,3 +45,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Malware Analysis Home Lab
 - Penetration testing lab with Kali Linux on Metasploitable 2
+- Stateful Packet Filtering Firewall Lab: Configuration et Deployment
+- Web Vulnerability Detection using ML
