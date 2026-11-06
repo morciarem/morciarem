@@ -1,49 +1,35 @@
-# Hello, I'm Morci
-<a href="https://www.linkedin.com/in/arem-morci-796114301/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Morci
 
+Master's student in computer science at the University of Passau, Germany.
+I am looking for a working student job or internship in IT security or backend development.
 
-I am a master student with a profound interest in IT and Cybersecurity and dedicated to solving complex problems.
+[LinkedIn](https://www.linkedin.com/in/arem-morci-796114301/)
 
-## Objective
+## What I work on
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a proffesional.
+- **Security labs:** I build and document hands-on labs: a penetration test and a malware analysis.
+- **Backend development:** I build APIs in Python with user login, email verification, JWT tokens and rate limiting.
+
+## Projects
+
+| Project | What I did | Tools |
+|---|---|---|
+| [Malware Analysis Home Lab](https://github.com/morciarem/Malware-Analysis-Home-Lab) | Built an isolated lab. Analyzed a Zeus banking trojan sample with static and dynamic analysis. Wrote a YARA rule draft. | VirtualBox, REMnux, FLARE VM, PEStudio, capa, Wireshark, YARA |
+| [Penetration Testing Lab](https://github.com/morciarem/Penetration-testing-lab-with-Kali-Linux-on-Metasploitable-2) | Full attack chain on a vulnerable VM: scanning, web login brute force, command injection, reverse shell, privilege escalation, backdoor, rootkit. | Kali Linux, Metasploitable 2, Nmap, Nikto, Hydra, Netcat |
+| [Confirmi](https://github.com/morciarem/confirmi) | Authentication backend: signup, email verification, JWT, rate limiting, Argon2 password hashing. | Python, PostgreSQL |
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Malware Analysis                              | <a href="https://github.com/morciarem/Malware-Analysis-Home-Lab">Malware Analysis Home Lab</a>|
-|Penetration Testing                            | <a href="https://github.com/morciarem/Penetration-testing-lab-with-Kali-Linux-on-Metasploitable-2">Penetration testing lab with Kali Linux on Metasploitable 2</a>| 
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Pentesting
-<div>
-    <img src="https://img.shields.io/badge/-Nmap-8D0000?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-4A148C?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PenTest-007ACC?&style=for-the-badge&logo=Trivy&logoColor=white" />
-</div>
-
-### Programming languages
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GnuBash&logoColor=white" />
-</div>
-
+| Area | Tools |
+|---|---|
+| Programming | Python, Bash, C |
+| Security | Nmap, Nikto, Hydra, Wireshark, YARA, capa |
+| Networking | CCNA, HCIA WLAN |
 
 ## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-HCIA%20WLAN-FF0000?&style=for-the-badge&logo=HCIA%20WLAN&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
 
-## Projects
-- Malware Analysis Home Lab
-- Penetration testing lab with Kali Linux on Metasploitable 2
-- Stateful Packet Filtering Firewall Lab: Configuration et Deployment
-- Web Vulnerability Detection using ML
+CCNA, HCIA WLAN
+
+## Contact
+
+LinkedIn (above) or morciarem@gmail.com
